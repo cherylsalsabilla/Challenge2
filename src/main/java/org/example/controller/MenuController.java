@@ -33,7 +33,7 @@ public class MenuController {
 //
 //                    }
 //                    //!MenuView.listPesanan.size() = null;
-//                    //TODO: konfirmasi pesanan;
+//                    //konfirmasi pesanan;
 //                } catch (Exception e) {
 //                    System.out.println("=========================");
 //                    System.out.println("Minimal 1 jumlah pesanan!");
